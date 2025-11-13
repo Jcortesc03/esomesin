@@ -1,0 +1,15 @@
+C:\Users\PC 105-17\Desktop\esomesin\bin\Debug\net8.0\esomesin.exe
+C:\Users\PC 105-17\Desktop\esomesin\bin\Debug\net8.0\esomesin.deps.json
+C:\Users\PC 105-17\Desktop\esomesin\bin\Debug\net8.0\esomesin.runtimeconfig.json
+C:\Users\PC 105-17\Desktop\esomesin\bin\Debug\net8.0\esomesin.dll
+C:\Users\PC 105-17\Desktop\esomesin\bin\Debug\net8.0\esomesin.pdb
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.AssemblyInfoInputs.cache
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.AssemblyInfo.cs
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.csproj.CoreCompileInputs.cache
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.sourcelink.json
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.dll
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\refint\esomesin.dll
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.pdb
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\esomesin.genruntimeconfig.cache
+C:\Users\PC 105-17\Desktop\esomesin\obj\Debug\net8.0\ref\esomesin.dll
