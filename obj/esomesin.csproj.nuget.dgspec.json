@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC 105-17\\Desktop\\esomesin\\esomesin.csproj": {}
+    "C:\\Users\\PC 105-18\\OneDrive\\Desktop\\jsdjsajdasjdjajç\\esomesin\\esomesin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC 105-17\\Desktop\\esomesin\\esomesin.csproj": {
+    "C:\\Users\\PC 105-18\\OneDrive\\Desktop\\jsdjsajdasjdjajç\\esomesin\\esomesin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC 105-17\\Desktop\\esomesin\\esomesin.csproj",
+        "projectUniqueName": "C:\\Users\\PC 105-18\\OneDrive\\Desktop\\jsdjsajdasjdjajç\\esomesin\\esomesin.csproj",
         "projectName": "esomesin",
-        "projectPath": "C:\\Users\\PC 105-17\\Desktop\\esomesin\\esomesin.csproj",
-        "packagesPath": "C:\\Users\\PC 105-17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC 105-17\\Desktop\\esomesin\\obj\\",
+        "projectPath": "C:\\Users\\PC 105-18\\OneDrive\\Desktop\\jsdjsajdasjdjajç\\esomesin\\esomesin.csproj",
+        "packagesPath": "C:\\Users\\PC 105-18\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC 105-18\\OneDrive\\Desktop\\jsdjsajdasjdjajç\\esomesin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC 105-17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC 105-18\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -46,7 +46,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -62,12 +63,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
